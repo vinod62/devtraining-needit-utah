@@ -138,7 +138,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-20 16:38:00</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>c0ae5dab1b454d10b81fdce7cc4bcb12</sys_id>
         <sys_mod_count>2</sys_mod_count>
         <sys_name>Simple List with Chris default</sys_name>
@@ -150,5 +149,4 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-20 16:39:03</sys_updated_on>
     </sys_ux_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=c0ae5dab1b454d10b81fdce7cc4bcb12"/>
 </record_update>

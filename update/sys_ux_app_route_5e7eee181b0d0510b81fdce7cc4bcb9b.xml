@@ -2,6 +2,7 @@
     <sys_ux_app_route action="INSERT_OR_UPDATE">
         <app_config display_value="NeedIt Experience">f30d66941b0d0510b81fdce7cc4bcb52</app_config>
         <description/>
+        <extension_point/>
         <fields/>
         <icon/>
         <name>Home</name>
@@ -24,5 +25,4 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-10 20:06:36</sys_updated_on>
     </sys_ux_app_route>
-    <sys_translated_text action="delete_multiple" query="documentkey=5e7eee181b0d0510b81fdce7cc4bcb9b"/>
 </record_update>

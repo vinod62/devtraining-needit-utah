@@ -134,7 +134,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-10 20:06:36</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>0e7e2e181b0d0510b81fdce7cc4bcb4a</sys_id>
         <sys_mod_count>5</sys_mod_count>
         <sys_name>NeedIt Admin home</sys_name>
@@ -146,5 +145,4 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-24 18:07:12</sys_updated_on>
     </sys_ux_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=0e7e2e181b0d0510b81fdce7cc4bcb4a"/>
 </record_update>
