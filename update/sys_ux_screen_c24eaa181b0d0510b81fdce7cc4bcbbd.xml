@@ -26,7 +26,6 @@
         <sys_created_by>admin</sys_created_by>
         <sys_created_on>2022-01-10 20:05:47</sys_created_on>
         <sys_domain>global</sys_domain>
-        <sys_domain_path>/</sys_domain_path>
         <sys_id>c24eaa181b0d0510b81fdce7cc4bcbbd</sys_id>
         <sys_mod_count>1</sys_mod_count>
         <sys_name>Simple List default</sys_name>
@@ -38,5 +37,4 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-10 20:10:57</sys_updated_on>
     </sys_ux_screen>
-    <sys_translated_text action="delete_multiple" query="documentkey=c24eaa181b0d0510b81fdce7cc4bcbbd"/>
 </record_update>
