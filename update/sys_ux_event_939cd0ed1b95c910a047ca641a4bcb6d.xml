@@ -2,6 +2,7 @@
     <sys_ux_event action="INSERT_OR_UPDATE">
         <description/>
         <event_name>UPDATE_LIST_QUERY_AND_TITLE</event_name>
+        <explicit_api_name/>
         <interfaces/>
         <label>Update list query and title</label>
         <props>[{"name":"heListQuery","fieldType":"","label":"List query","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false},{"name":"heListTitle","fieldType":"","label":"List title","interfaceApiName":"","typeMetadata":null,"mandatory":false,"readOnly":false}]</props>
@@ -26,5 +27,4 @@
         <sys_updated_by>admin</sys_updated_by>
         <sys_updated_on>2022-01-26 16:57:28</sys_updated_on>
     </sys_ux_event>
-    <sys_translated_text action="delete_multiple" query="documentkey=939cd0ed1b95c910a047ca641a4bcb6d"/>
 </record_update>
